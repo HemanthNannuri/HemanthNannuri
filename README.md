@@ -1,6 +1,12 @@
 # <a href="https://www.linkedin.com/in/hemanthnannuri/">Hemanth Kumar Nannuri</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+SOC Analyst with hands-on experience in security monitoring, threat hunting, incident response, and vulnerability management. I’ve worked in fast-paced environments analyzing security alerts, mitigating risks, and ensuring compliance with industry best practices.
+
+Recent Master's Graduate in Information Systems at Northwest Missouri State University , I bring a strong blend of technical acumen and real-world SOC experience. I’m actively upskilling in SIEM tools (Splunk, QRadar), MITRE ATT&CK, IDS/IPS, firewalls, and endpoint protection while preparing for certifications like CompTIA Security+ Certified User.
+
+I'm driven by a mission to safeguard organizations from cyber threats and am seeking new opportunities to grow in threat intelligence, blue teaming, and SOC leadership.
+
+Let’s connect if you're looking to collaborate in the cybersecurity space or have exciting SOC roles!
 
 
 ## ⚠️ Vulnerability Management Projects
