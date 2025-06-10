@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/hemanthnannuri/">Hemanth Kumar Nannuri</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/hemanthnannuri/">Hemanth Kumar Nannuri</a>'s IT & Cybersecurity Project Portfolio 🔐
 
 SOC Analyst with hands-on experience in security monitoring, threat hunting, incident response, and vulnerability management. I’ve worked in fast-paced environments analyzing security alerts, mitigating risks, and ensuring compliance with industry best practices.
 
